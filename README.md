@@ -37,6 +37,7 @@ MoneyApp is a Java AWT and JDBC Application with both admin and user layouts.
 12. Before running the application do changes in Home1, ManagerMain, CustomerMain, Manager Create, for every "connection con =" statement by replacing your database name, username, or password.
 
 13. After that you have to open the ManagerCreate file and change the column values mention below, and Execute the file.
+
         String Username = "abc";
         String EmpId = "123";
         String Fullname = "abc";
