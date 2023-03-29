@@ -3,7 +3,8 @@
 
 <a href="https://www.buymeacoffee.com/Addytyd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
-MoneyApp is a Java AWT and JDBC Application with both admin and user layouts.
+MoneyApp is a Java AWT and JDBC Application with both admin and user layouts. 
+It is similar to ATM Machine Application or we can say Online Banking System Simulation using Java.
 
 # Installation
 
